@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>ICS Network Lab</b>
-  - [Hacking and ICS Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hacking and ICS Network](https://github.com/Kay-Dee24/ICS-Network)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
